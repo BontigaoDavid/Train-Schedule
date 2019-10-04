@@ -1,0 +1,45 @@
+#title-container {
+    margin-top: 20px;
+    padding: 100px;
+    background-color: rgb(145, 145, 145);
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
+
+#subtitle-container {
+    font-size: 25px;
+}
+
+#train-schedule-title {
+    padding: 4px;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+#train-schedule-container {
+    padding: 20px;
+    border: 1px solid blue;
+    padding-bottom: 10px;
+}
+
+.table-header {
+    font-weight: 600;
+}
+
+.table-row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.table-cell {
+    font-size: 12px;
+}
+
+#form-container {
+    padding: 20px;
+    border: 1px solid gray;
+    margin-top: 50px;
+}
